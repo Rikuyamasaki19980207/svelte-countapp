@@ -1,5 +1,4 @@
 <script lang="ts">
-  '''Typescript
   import CardLength from './CardLength.svelte';
   import Counter from './Counter.svelte';
   import Card from './Card.svelte';
