@@ -23,6 +23,7 @@
 </div>
 
 <style>
+  @media (max-width: 1500px){
   .product-list {
     margin: auto;
   }
@@ -45,5 +46,6 @@
 
   button:active {
     background: #68d391;
+  }
   }
 </style>
